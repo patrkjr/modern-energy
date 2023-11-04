@@ -23,7 +23,7 @@ export default function Header(){
     }
     <div className="flex md:hidden justify-between p-12">
       <Logo/>
-      <button onClick={handleOnClickMenu}><MenuIcon/></button>
+      <button onClick={handleOnClickMenu} aria-label="Open menu" ><MenuIcon/></button>
     </div>
     <div className="hidden md:flex flex-row justify-between items-center p-4">
       <Logo/>

@@ -9,7 +9,7 @@ export default function PricingBox({ title, text, image, step, color }) {
             {step || 'step'}
           </div>
         </div>
-        <div className="flex flex-col gap-4 justify-center px-8">
+        <div className="flex flex-col gap-4 justify-center px-8 mt-3">
           <h4 className="text-center font-bold text-2xl text-cyan-900 dark:text-cyan-100">
             {title}
           </h4>

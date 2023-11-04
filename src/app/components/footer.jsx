@@ -10,27 +10,27 @@ export default function Footer() {
           <Logo/>
         </div>
         <div className="container gap-3">
-          <h4 className='text-xl font-bold text-blue-800 dark:text-cyan-100 mb-4 lg:mb-8'>Company</h4>
+          <h4 className='text-xl font-bold text-blue-500 dark:text-cyan-100 mb-4 lg:mb-8'>Company</h4>
           <FooterLink href="#" text="About us"/>
           <FooterLink href="#" text="Careers"/>
           <FooterLink href="#" text="Press"/>
           <FooterLink href="#" text="Blog"/>
         </div>
         <div className="container gap-3">
-          <h4 className='text-xl font-bold text-blue-800 dark:text-cyan-100 mb-4 lg:mb-8'>Pages</h4>
+          <h4 className='text-xl font-bold text-blue-500 dark:text-cyan-100 mb-4 lg:mb-8'>Pages</h4>
           <FooterLink href="#" text="Login"/>
           <FooterLink href="#" text="Register"/>
           <FooterLink href="#" text="Add list"/>
           <FooterLink href="#" text="Contact"/>
         </div>
         <div className="container gap-3">
-          <h4 className='text-xl font-bold text-blue-800 dark:text-cyan-100 mb-4 lg:mb-8'>Legal</h4>
+          <h4 className='text-xl font-bold text-blue-500 dark:text-cyan-100 mb-4 lg:mb-8'>Legal</h4>
           <FooterLink href="#" text="Terms"/>
           <FooterLink href="#" text="Team"/>
           <FooterLink href="#" text="Privacy"/>
         </div>
         <div className="container gap-3">
-          <h4 className='text-xl font-bold text-blue-800 dark:text-cyan-100 mb-4 lg:mb-8'>Resources</h4>
+          <h4 className='text-xl font-bold text-blue-500 dark:text-cyan-100 mb-4 lg:mb-8'>Resources</h4>
           <FooterLink href="#" text="Services"/>
           <FooterLink href="#" text="Product"/>
           <FooterLink href="#" text="Pricing"/>

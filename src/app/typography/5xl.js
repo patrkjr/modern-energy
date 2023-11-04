@@ -1,0 +1,1 @@
+export default "text-5xl font-bold text-blue-800 dark:text-cyan-100"

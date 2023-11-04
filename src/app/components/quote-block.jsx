@@ -24,7 +24,7 @@ export default function QuoteBlock() {
         {/* <div>Quote svg</div> */}
         <span className="text-5xl font-bold text-blue-800 dark:text-cyan-100">Lorem ipsum sit dolor sit amet consctutar</span>
         <P secondary>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur illum reprehenderit provident perferendis cumque aperiam ipsum soluta harum architecto? Ut, distinctio? Ut, ducimus praesentium! Aliquam odit tempore harum laudantium exercitationem?</P>
-        <div className="h-[1px] dark:bg-rose-300 bg-rose-500"/>
+        <div className="h-[1px] dark:bg-rose-300 bg-rose-200"/>
         <p className="font-bold text-xl text-blue-800 dark:text-cyan-100">Esther Mane</p>
         <p className="text-sm text-slate-500">CEO & Founder</p>
       </div>

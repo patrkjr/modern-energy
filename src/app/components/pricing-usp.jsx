@@ -28,7 +28,7 @@ export default function PricingUSP() {
         <h1 className="font-bold text-5xl text-center text-blue-900 dark:text-cyan-100">Lorem ipsum dolor sit amet consectetur</h1>
         <p className="text-center text-slate-500 dark:text-slate-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolores officiis corporis provident quis suscipit, inventore libero odit laborum earum.</p>
       </div>
-      <div className='flex w-full border rounded-xl my-12 overflow-hidden'>
+      <div className='flex w-full border border-slate-200 dark:border-slate-800 rounded-xl my-12 overflow-hidden'>
         <div className='flex flex-[1.5] md:flex-1 flex-col gap-4'>
           <div className='p-12 flex flex-col gap-4'>
             <p className='text-cyan-400'>Sign up</p>

@@ -1,11 +1,12 @@
 import StepBox from './step-box';
+import fiveXLText from '../typography/5xl'
 
 export default function Steps() {
   return (
     <div className="flex flex-col items-center py-24">
-      <div className="flex flex-col md:max-w-2xl gap-10 px-12 py-24">
-        <p className='text-center font-bold text-cyan-500'>How it works?</p>
-        <h2 className="text-5xl font-bold text-center text-cyan-900 dark:text-cyan-100">Find out how simple and easy it is</h2>
+      <div className="flex text-center flex-col md:max-w-2xl gap-10 px-12 py-24">
+        <p className='font-bold text-cyan-500'>How it works?</p>
+        <h2 className={`${fiveXLText}`}>Find out how simple and easy it is</h2>
         <p className="text-center text-slate-500 dark:text-slate-400">
           <span>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Autem architecto iste sint, tenetur dolorum tempore perferendis voluptatem quis!
